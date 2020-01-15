@@ -1,8 +1,8 @@
 {
   "name": "jssip",
-  "title": "JsSIP",
+  "title": "JsSIP Fork by DMC",
   "description": "the Javascript SIP library",
-  "version": "3.2.11",
+  "version": "3.2.12",
   "homepage": "http://jssip.net",
   "author": "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
   "contributors": [
@@ -21,10 +21,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/JsSIP.git"
+    "url": "https://github.com/dmc-ltd/JsSIP.git"
   },
   "bugs": {
-    "url": "https://github.com/versatica/JsSIP/issues"
+    "url": "https://github.com/dmc-ltd/JsSIP/issues"
   },
   "dependencies": {
     "debug": "^3.1.0",
